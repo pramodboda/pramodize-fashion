@@ -48,6 +48,6 @@ export const BlockBackgroundImg = styled.img`
   width: 100%;
 
   &.inventoryBlockBg {
-    filter: opacity(0.6);
+    filter: opacity(0.7);
   }
 `;
