@@ -22,7 +22,7 @@ export const BlockContent = styled.div`
     vertical-align: middle;
   }
 
-  & h2 {
+  & h3 {
     font-family: "Oswald", sans-serif;
     text-transform: uppercase;
     font-weight: 500;
@@ -48,6 +48,6 @@ export const BlockBackgroundImg = styled.img`
   width: 100%;
 
   &.inventoryBlockBg {
-    filter: opacity(0.4);
+    filter: opacity(0.6);
   }
 `;

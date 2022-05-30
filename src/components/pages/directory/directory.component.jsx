@@ -1,3 +1,5 @@
+import React from "react";
+
 import Grid from "@mui/material/Grid";
 
 //Home
@@ -17,23 +19,25 @@ import makeup1 from "../../../assets/images/makeup-cosmetics/makeup1.jpg";
 const Directory = () => {
   return (
     <div className="categories-container">
-      <MaleFemaleInventoryBlock
-        femaleImg={female1}
-        maleImg={male1}
-        title="Hardcore Denim"
-        femaleBtnTxt="Shop Women's"
-        maleBtnTxt="Shop Men's"
-      />
-
-      <MaleFemaleInventoryBlock
-        femaleImg={female2}
-        maleImg={male2}
-        title="Pants"
-        femaleBtnTxt="Shop Women's"
-        maleBtnTxt="Shop Men's"
-      />
-
       <Grid container spacing={2}>
+        <Grid item xs={12}>
+          <MaleFemaleInventoryBlock
+            femaleImg={female1}
+            maleImg={male1}
+            title="Hardcore Denim"
+            femaleBtnTxt="Shop Women's"
+            maleBtnTxt="Shop Men's"
+          />
+        </Grid>
+        <Grid item xs={12}>
+          <MaleFemaleInventoryBlock
+            femaleImg={female2}
+            maleImg={male2}
+            title="Pants"
+            femaleBtnTxt="Shop Women's"
+            maleBtnTxt="Shop Men's"
+          />
+        </Grid>
         <Grid item xs={8}>
           <MaleFemaleInventoryBlock
             femaleImg={female3}

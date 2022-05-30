@@ -24,8 +24,8 @@ const MaleFemaleInventoryBlock = ({
         <BlockContentAlign>
           <Typography
             className="inventoryBlockTitleTxt"
-            variant="h2"
-            component="h2"
+            variant="h3"
+            component="h3"
             sx={{ mb: 3 }}
           >
             {title}
@@ -34,7 +34,7 @@ const MaleFemaleInventoryBlock = ({
             <Button
               variant="contained"
               disableElevation
-              sx={{ ml: -2.6, mr: 2 }}
+              sx={{ ml: -2.3, mr: 2 }}
             >
               {femaleBtnTxt}
             </Button>

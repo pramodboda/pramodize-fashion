@@ -101,11 +101,14 @@ export const ColorModeContextProvider = ({ children }) => {
               }),
         },
         typography: {
-          fontFamily: '"Roboto", sans-serif',
+          fontFamily: '"Poppins", sans-serif',
           h1: {
             fontFamily: '"Oswald", sans-serif',
           },
           h2: {
+            fontFamily: '"Oswald", sans-serif',
+          },
+          h3: {
             fontFamily: '"Oswald", sans-serif',
           },
           button: {

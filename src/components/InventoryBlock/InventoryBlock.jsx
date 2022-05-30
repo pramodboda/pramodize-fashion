@@ -17,8 +17,8 @@ const InventoryBlock = ({ title, btnTxt, bgImg }) => {
         <BlockContentAlign>
           <Typography
             className="inventoryBlockTitleTxt"
-            variant="h2"
-            component="h2"
+            variant="h3"
+            component="h3"
             sx={{ mb: 3 }}
           >
             {title}
@@ -27,7 +27,7 @@ const InventoryBlock = ({ title, btnTxt, bgImg }) => {
             <Button
               variant="contained"
               disableElevation
-              sx={{ ml: -2.6, mr: 2 }}
+              // sx={{ ml: -2.6, mr: 2 }}
             >
               {btnTxt}
             </Button>
