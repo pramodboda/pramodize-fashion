@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useContext } from "react";
 import { Outlet } from "react-router-dom";
 
 import { NavigationBlock, BrandLogo, NavLink } from "./navigation.styled.js";
@@ -6,7 +6,13 @@ import { NavigationBlock, BrandLogo, NavLink } from "./navigation.styled.js";
 import FavoriteBorderOutlinedIcon from "@mui/icons-material/FavoriteBorderOutlined";
 import ShoppingBagOutlinedIcon from "@mui/icons-material/ShoppingBagOutlined";
 
+import { UserContext } from "../../contexts/user.context.jsx";
+
+import { signOutUser } from "../../utils/firebase/firebase.utils";
+
 const Navigation = () => {
+  const { currentUser } = useContext(UserContext);
+
   return (
     <div>
       <NavigationBlock className="navigation-block">
@@ -32,9 +38,16 @@ const Navigation = () => {
         </div>
 
         <div className="nav-links-block">
-          <NavLink className="nav-link" to="/auth">
-            SignIn
-          </NavLink>
+          {currentUser ? (
+            <NavLink className="nav-link" to="" onClick={signOutUser}>
+              Logout
+            </NavLink>
+          ) : (
+            <NavLink className="nav-link" to="/auth">
+              SignIn
+            </NavLink>
+          )}
+
           <NavLink className="nav-link nav-link-icon" to="">
             <FavoriteBorderOutlinedIcon />
           </NavLink>

@@ -22,7 +22,7 @@ const SignUpForm = () => {
 
   const { displayName, email, password, confirmPassword } = formFields;
 
-  console.log(formFields);
+  // console.log(formFields);
 
   const resetFormFields = () => {
     setFormFields(defaultFormFields);
@@ -71,7 +71,7 @@ const SignUpForm = () => {
             name="displayName"
             type="text"
             onChange={handleChange}
-            defaultValue={displayName}
+            value={displayName}
           />
         </Box>
         <Box sx={{ mb: "15px" }}>
@@ -81,7 +81,7 @@ const SignUpForm = () => {
             type="email"
             name="email"
             onChange={handleChange}
-            defaultValue={email}
+            value={email}
           />
         </Box>
         <Box sx={{ mb: "15px" }}>
@@ -91,7 +91,7 @@ const SignUpForm = () => {
             type="password"
             name="password"
             onChange={handleChange}
-            defaultValue={password}
+            value={password}
           />
         </Box>
         <Box sx={{ mb: "15px" }}>
@@ -101,7 +101,7 @@ const SignUpForm = () => {
             type="password"
             name="confirmPassword"
             onChange={handleChange}
-            defaultValue={confirmPassword}
+            value={confirmPassword}
           />
         </Box>
         <Box sx={{ mb: "15px" }}>

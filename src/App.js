@@ -8,7 +8,6 @@ import "./catogories.styles.css";
 import { ColorModeContextProvider } from "./contexts/ColorModeContext";
 
 //Components
-
 import Navigation from "./components/navigation/navigation.component";
 import DarkLightModeBtn from "./components/buttons/DarkLightModeBtn/DarkLightModeBtn";
 import Directory from "./components/pages/directory/directory.component";

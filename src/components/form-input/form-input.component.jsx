@@ -1,7 +1,6 @@
 import TextField from "@mui/material/TextField";
 
 const FormInput = ({ label, ...otherProps }) => {
-  console.log(otherProps);
   return (
     <div>
       {label && <label>{label}</label>}
