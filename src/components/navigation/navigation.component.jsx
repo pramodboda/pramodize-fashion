@@ -32,7 +32,7 @@ const Navigation = () => {
         </div>
 
         <div className="nav-links-block">
-          <NavLink className="nav-link" to="/sign-in">
+          <NavLink className="nav-link" to="/auth">
             SignIn
           </NavLink>
           <NavLink className="nav-link nav-link-icon" to="">

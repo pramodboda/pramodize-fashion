@@ -63,8 +63,8 @@ export default function DarkLightModeBtn(props) {
   return (
     <FormGroup>
       <FormControlLabel
-        control={<MaterialUISwitch sx={{ m: 1 }} />}
-        label="MUI switch"
+        control={<MaterialUISwitch />}
+        // label="MUI switch"
         onClick={toggleColorMode}
       />
     </FormGroup>

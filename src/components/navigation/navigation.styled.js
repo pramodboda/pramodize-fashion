@@ -15,7 +15,7 @@ export const NavigationBlock = styled.div`
 export const BrandLogo = styled(Link)`
   font-family: "DM Serif Display", serif;
   text-decoration: none;
-  font-size: 2rem;
+  font-size: 1.8rem;
   color: #1e1e1e;
 `;
 
