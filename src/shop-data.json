@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "productBrandName": "G-Star Raw",
+    "productName": "ARC 3D BOYFRIEND JEANS",
+    "color": "3D Raw Denim",
+    "imageUrl": "https://img1.g-star.com/product/c_fill,f_auto,h_692,q_80/v1649755807/D19821-C829-1241-E01/g-star-raw-arc-3d-boyfriend-jeans-dark-blue.jpg",
+    "price": 69.5
+  },
+  {
+    "id": 2,
+    "productBrandName": "Levis",
+    "productName": "724 HIGH RISE SLIM STRAIGHT FIT WOMEN'S JEANS",
+    "color": "3D Raw Denim",
+    "imageUrl": "https://lsco.scene7.com/is/image/lsco/188830016-dynamic1-pdp?fmt=jpeg&qlt=70,1&op_sharpen=0&resMode=sharp2&op_usm=0.8,1,10,0&fit=crop,0&wid=1250&hei=1667",
+    "price": 69.5
+  },
+  {
+    "id": 3,
+    "productBrandName": "G-Star Raw",
+    "productName": "KATE BOYFRIEND JEANS",
+    "color": "Vintage Basalt",
+    "imageUrl": "https://img1.g-star.com/product/c_fill,f_auto,h_692,q_80/v1625149148/D15264-C293-B168-E01/g-star-raw-kate-boyfriend-jeans-grey.jpg",
+    "price": 25
+  },
+  {
+    "id": 4,
+    "productBrandName": "G-Star Raw",
+    "productName": "KATE BOYFRIEND JEANS",
+    "color": "White Denim",
+    "imageUrl": "https://img1.g-star.com/product/c_fill,f_auto,h_692,q_80/v1646211647/D15264-C669-110-E01/g-star-raw-kate-boyfriend-jeans-white.jpg",
+    "price": 25
+  },
+  {
+    "id": 5,
+    "productBrandName": "Nike",
+    "productName": "Yellow Dress",
+    "imageUrl": "https://img.tatacliq.com/images/i4/658Wx734H/MP000000005385421_658Wx734H_20190831180055.jpeg",
+    "price": 25
+  },
+  {
+    "id": 6,
+    "productBrandName": "Nike",
+    "productName": "Yellow Dress",
+    "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
+    "price": 25
+  },
+  {
+    "id": 7,
+    "productBrandName": "Nike",
+    "productName": "Yellow Dress",
+    "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
+    "price": 25
+  },
+  {
+    "id": 8,
+    "productBrandName": "Nike",
+    "productName": "Yellow Dress",
+    "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
+    "price": 25
+  }
+]

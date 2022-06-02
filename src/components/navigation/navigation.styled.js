@@ -28,8 +28,8 @@ export const NavLink = styled(Link)`
   font-weight: 600;
   padding: 0.6rem;
   vertical-align: middle;
+  position: relative;
 
-  transition: all ease-in-out 0.3s;
   &:hover {
     color: ${PrimaryC1};
     border-bottom: 4px solid ${PrimaryC1};
@@ -41,4 +41,20 @@ export const NavLink = styled(Link)`
       border-bottom: 4px solid red;
     }
   }
+`;
+
+export const ItemCount = styled.span`
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 9px;
+  vertical-align: middle;
+  padding: 12px 0 0 0;
+`;
+
+export const NavControls = styled.div`
+  display: flex;
+  align-items: center;
 `;
