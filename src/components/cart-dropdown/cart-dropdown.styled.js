@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const CartDropdownContainer = styled.div`
   position: fixed;
-  width: 240px;
+  width: 340px;
   height: 100%;
   overflow: hidden;
   display: flex;

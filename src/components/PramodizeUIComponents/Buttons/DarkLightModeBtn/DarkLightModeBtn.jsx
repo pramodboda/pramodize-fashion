@@ -1,7 +1,7 @@
 import * as React from "react";
 import { useTheme, styled, createTheme } from "@mui/material/styles";
 
-import { ColorModeContext } from "../../../contexts/ColorModeContext";
+import { ColorModeContext } from "../../../../contexts/ColorModeContext";
 
 import FormGroup from "@mui/material/FormGroup";
 import FormControlLabel from "@mui/material/FormControlLabel";

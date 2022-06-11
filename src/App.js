@@ -9,10 +9,11 @@ import { ColorModeContextProvider } from "./contexts/ColorModeContext";
 
 //Components
 import Navigation from "./components/navigation/navigation.component";
-import DarkLightModeBtn from "./components/buttons/DarkLightModeBtn/DarkLightModeBtn";
-import Directory from "./components/pages/directory/directory.component";
+import DarkLightModeBtn from "./components/PramodizeUIComponents/Buttons/DarkLightModeBtn/DarkLightModeBtn";
+import Directory from "./pages/directory/directory.component";
 import Authentication from "./pages/authentication/authentication.component";
 import Shop from "./pages/shop/shop.component";
+import Checkout from "./pages/checkout/checkout.component";
 
 const Women = () => {
   return <div>Women Page</div>;
@@ -32,6 +33,7 @@ function App() {
           <Route path="kids" element={<kids />}></Route>
           <Route path="denim" element={<denim />}></Route>
           <Route path="sale" element={<sale />}></Route>
+          <Route path="checkout" element={<Checkout />}></Route>
         </Route>
       </Routes>
     </ColorModeContextProvider>

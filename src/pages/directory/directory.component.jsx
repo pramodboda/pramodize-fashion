@@ -3,18 +3,18 @@ import React from "react";
 import Grid from "@mui/material/Grid";
 
 //Home
-import InventoryBlock from "../../InventoryBlock/InventoryBlock";
-import MaleFemaleInventoryBlock from "../../MaleFemaleInventoryBlock/MaleFemaleInventoryBlock";
+import InventoryBlock from "../../components/InventoryBlock/InventoryBlock";
+import MaleFemaleInventoryBlock from "../../components/MaleFemaleInventoryBlock/MaleFemaleInventoryBlock";
 
-import male1 from "../../../assets/images/men1.jpg";
-import female1 from "../../../assets/images/female1.jpg";
-import male2 from "../../../assets/images/men2.jpg";
-import female2 from "../../../assets/images/female2.jpg";
-import male3 from "../../../assets/images/men3.jpg";
-import female3 from "../../../assets/images/female3.jpg";
-import femaleDress1 from "../../../assets/images/femaleDress1.jpg";
-import toGiftBgImg from "../../../assets/images/toGiftBgImg.jpg";
-import makeup1 from "../../../assets/images/makeup-cosmetics/makeup1.jpg";
+import male1 from "../../assets/images/men1.jpg";
+import female1 from "../../assets/images/female1.jpg";
+import male2 from "../../assets/images/men2.jpg";
+import female2 from "../../assets/images/female2.jpg";
+import male3 from "../../assets/images/men3.jpg";
+import female3 from "../../assets/images/female3.jpg";
+import femaleDress1 from "../../assets/images/femaleDress1.jpg";
+import toGiftBgImg from "../../assets/images/toGiftBgImg.jpg";
+import makeup1 from "../../assets/images/makeup-cosmetics/makeup1.jpg";
 
 const Directory = () => {
   return (
