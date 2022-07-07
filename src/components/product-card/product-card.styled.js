@@ -29,6 +29,8 @@ export const ProductCardImgContainer = styled.div`
 
 export const ProductCardImg = styled.img`
   width: 100%;
+  height: 500px;
+  object-fit: cover;
 `;
 
 export const ProductCardInfo = styled.div`

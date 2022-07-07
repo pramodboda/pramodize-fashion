@@ -27,7 +27,7 @@ function App() {
         <Route path="/" element={<Navigation />}>
           <Route index element={<Directory />}></Route>
           <Route path="auth" element={<Authentication />}></Route>
-          <Route path="shop" element={<Shop />}></Route>
+          <Route path="shop/*" element={<Shop />}></Route>
           <Route path="women" element={<Women />}></Route>
           <Route path="men" element={<men />}></Route>
           <Route path="kids" element={<kids />}></Route>

@@ -1,62 +1,206 @@
 [
   {
-    "id": 1,
-    "productBrandName": "G-Star Raw",
-    "productName": "ARC 3D BOYFRIEND JEANS",
-    "color": "3D Raw Denim",
-    "imageUrl": "https://img1.g-star.com/product/c_fill,f_auto,h_692,q_80/v1649755807/D19821-C829-1241-E01/g-star-raw-arc-3d-boyfriend-jeans-dark-blue.jpg",
-    "price": 69.5
+    "title": "Denims",
+    "items": [
+      {
+        "id": 1,
+        "productBrandName": "G-Star Raw",
+        "productName": "ARC 3D BOYFRIEND JEANS",
+        "color": "3D Raw Denim",
+        "imageUrl": "https://img1.g-star.com/product/c_fill,f_auto,h_692,q_80/v1649755807/D19821-C829-1241-E01/g-star-raw-arc-3d-boyfriend-jeans-dark-blue.jpg",
+        "price": 69.5
+      },
+      {
+        "id": 2,
+        "productBrandName": "Levis",
+        "productName": "724 HIGH RISE SLIM STRAIGHT FIT WOMEN'S JEANS",
+        "color": "3D Raw Denim",
+        "imageUrl": "https://lsco.scene7.com/is/image/lsco/188830016-dynamic1-pdp?fmt=jpeg&qlt=70,1&op_sharpen=0&resMode=sharp2&op_usm=0.8,1,10,0&fit=crop,0&wid=1250&hei=1667",
+        "price": 69.5
+      },
+      {
+        "id": 3,
+        "productBrandName": "G-Star Raw",
+        "productName": "KATE BOYFRIEND JEANS",
+        "color": "Vintage Basalt",
+        "imageUrl": "https://img1.g-star.com/product/c_fill,f_auto,h_692,q_80/v1625149148/D15264-C293-B168-E01/g-star-raw-kate-boyfriend-jeans-grey.jpg",
+        "price": 25
+      },
+      {
+        "id": 4,
+        "productBrandName": "G-Star Raw",
+        "productName": "KATE BOYFRIEND JEANS",
+        "color": "White Denim",
+        "imageUrl": "https://img1.g-star.com/product/c_fill,f_auto,h_692,q_80/v1646211647/D15264-C669-110-E01/g-star-raw-kate-boyfriend-jeans-white.jpg",
+        "price": 25
+      },
+      {
+        "id": 5,
+        "productBrandName": "Nike",
+        "productName": "Yellow Dress",
+        "imageUrl": "https://img.tatacliq.com/images/i4/658Wx734H/MP000000005385421_658Wx734H_20190831180055.jpeg",
+        "price": 25
+      },
+      {
+        "id": 6,
+        "productBrandName": "Nike",
+        "productName": "Yellow Dress",
+        "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
+        "price": 25
+      },
+      {
+        "id": 7,
+        "productBrandName": "Nike",
+        "productName": "Yellow Dress",
+        "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
+        "price": 25
+      },
+      {
+        "id": 8,
+        "productBrandName": "Nike",
+        "productName": "Yellow Dress",
+        "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
+        "price": 25
+      }
+    ]
   },
   {
-    "id": 2,
-    "productBrandName": "Levis",
-    "productName": "724 HIGH RISE SLIM STRAIGHT FIT WOMEN'S JEANS",
-    "color": "3D Raw Denim",
-    "imageUrl": "https://lsco.scene7.com/is/image/lsco/188830016-dynamic1-pdp?fmt=jpeg&qlt=70,1&op_sharpen=0&resMode=sharp2&op_usm=0.8,1,10,0&fit=crop,0&wid=1250&hei=1667",
-    "price": 69.5
+    "title": "T-Shirts",
+    "items": [
+      {
+        "id": 1,
+        "productBrandName": "H & M",
+        "productName": "Cropped top",
+        "color": "3D Raw Denim",
+        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F80%2F74%2F8074672fa390863bfb827b2a2e3a42e078605f3e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "price": 69.5
+      },
+      {
+        "id": 2,
+        "productBrandName": "H & M",
+        "productName": "Relaxed Fit Cotton T-shirt",
+        "color": "3D Raw Denim",
+        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe3%2Fcf%2Fe3cf3c85a8e56d691cab5831fa284658b13739b9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "price": 69.5
+      },
+      {
+        "id": 3,
+        "productBrandName": "H & M",
+        "productName": "Cropped top",
+        "color": "Vintage Basalt",
+        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F9b%2F06%2F9b06a05b3e520e6faf7b23b0860c650fde2657c4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "price": 25
+      },
+      {
+        "id": 4,
+        "productBrandName": "G-Star Raw",
+        "productName": "RAW. COVERED LONG SLIM TOP",
+        "color": "White Denim",
+        "imageUrl": "https://img1.g-star.com/product/c_fill,f_auto,h_692,q_80/v1646049080/D21237-336-6484-E01/g-star-raw-raw-covered-long-slim-top-black.jpg",
+        "price": 25
+      },
+      {
+        "id": 5,
+        "productBrandName": "H & M",
+        "productName": "Relaxed Fit T-shirt",
+        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0c%2F2c%2F0c2cfbd44496e57eee5167cc88d5c770bcdd044e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "price": 25
+      },
+      {
+        "id": 6,
+        "productBrandName": "Nike",
+        "productName": "Regular Fit Round-neck T-shirt",
+        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8a%2Fce%2F8ace157d551f58fefe420adb433441a566472bf3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "price": 399
+      },
+      {
+        "id": 7,
+        "productBrandName": "H & M",
+        "productName": "Relaxed Fit T-shirt",
+        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdd%2F41%2Fdd41f0e1f0ac9ce163be719bb4e957bae7b63203.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "price": 799
+      },
+      {
+        "id": 8,
+        "productBrandName": "Supreme Newyork",
+        "productName": "Tartan Wool Suit",
+        "imageUrl": "https://assets.supremenewyork.com/228338/ma/fE8A6g8R2Vc.jpg",
+        "price": 25
+      }
+    ]
   },
   {
-    "id": 3,
-    "productBrandName": "G-Star Raw",
-    "productName": "KATE BOYFRIEND JEANS",
-    "color": "Vintage Basalt",
-    "imageUrl": "https://img1.g-star.com/product/c_fill,f_auto,h_692,q_80/v1625149148/D15264-C293-B168-E01/g-star-raw-kate-boyfriend-jeans-grey.jpg",
-    "price": 25
-  },
-  {
-    "id": 4,
-    "productBrandName": "G-Star Raw",
-    "productName": "KATE BOYFRIEND JEANS",
-    "color": "White Denim",
-    "imageUrl": "https://img1.g-star.com/product/c_fill,f_auto,h_692,q_80/v1646211647/D15264-C669-110-E01/g-star-raw-kate-boyfriend-jeans-white.jpg",
-    "price": 25
-  },
-  {
-    "id": 5,
-    "productBrandName": "Nike",
-    "productName": "Yellow Dress",
-    "imageUrl": "https://img.tatacliq.com/images/i4/658Wx734H/MP000000005385421_658Wx734H_20190831180055.jpeg",
-    "price": 25
-  },
-  {
-    "id": 6,
-    "productBrandName": "Nike",
-    "productName": "Yellow Dress",
-    "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
-    "price": 25
-  },
-  {
-    "id": 7,
-    "productBrandName": "Nike",
-    "productName": "Yellow Dress",
-    "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
-    "price": 25
-  },
-  {
-    "id": 8,
-    "productBrandName": "Nike",
-    "productName": "Yellow Dress",
-    "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
-    "price": 25
+    "title": "Sweatshirts & Hoodies",
+    "items": [
+      {
+        "id": 1,
+        "productBrandName": "Supreme Newyork",
+        "productName": "Griffin Anorak",
+        "color": "3D Raw Denim",
+        "imageUrl": "https://assets.supremenewyork.com/228340/ma/zUJHvY8MguU.jpg",
+        "price": 69.5
+      },
+      {
+        "id": 2,
+        "productBrandName": "Levis",
+        "productName": "724 HIGH RISE SLIM STRAIGHT FIT WOMEN'S JEANS",
+        "color": "3D Raw Denim",
+        "imageUrl": "https://lsco.scene7.com/is/image/lsco/188830016-dynamic1-pdp?fmt=jpeg&qlt=70,1&op_sharpen=0&resMode=sharp2&op_usm=0.8,1,10,0&fit=crop,0&wid=1250&hei=1667",
+        "price": 69.5
+      },
+      {
+        "id": 3,
+        "productBrandName": "G-Star Raw",
+        "productName": "KATE BOYFRIEND JEANS",
+        "color": "Vintage Basalt",
+        "imageUrl": "https://img1.g-star.com/product/c_fill,f_auto,h_692,q_80/v1625149148/D15264-C293-B168-E01/g-star-raw-kate-boyfriend-jeans-grey.jpg",
+        "price": 25
+      },
+      {
+        "id": 4,
+        "productBrandName": "G-Star Raw",
+        "productName": "KATE BOYFRIEND JEANS",
+        "color": "White Denim",
+        "imageUrl": "https://img1.g-star.com/product/c_fill,f_auto,h_692,q_80/v1646211647/D15264-C669-110-E01/g-star-raw-kate-boyfriend-jeans-white.jpg",
+        "price": 25
+      },
+      {
+        "id": 5,
+        "productBrandName": "Nike",
+        "productName": "Yellow Dress",
+        "imageUrl": "https://img.tatacliq.com/images/i4/658Wx734H/MP000000005385421_658Wx734H_20190831180055.jpeg",
+        "price": 25
+      },
+      {
+        "id": 6,
+        "productBrandName": "Nike",
+        "productName": "Yellow Dress",
+        "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
+        "price": 25
+      },
+
+      {
+        "id": 7,
+        "productBrandName": "Hollister",
+        "productName": "SEAMLESS RIB FABRIC SQUARE-NECK BABY TEE",
+        "imageUrl": "https://img.hollisterco.com/is/image/anf/KIC_339-2686-1826-301_model1?policy=product-large",
+        "price": 25
+      },
+
+      {
+        "id": 8,
+        "productBrandName": "Nike",
+        "productName": "Yellow Dress",
+        "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
+        "price": 25
+      }
+      // {
+      //   "id": 9,
+      //   "productBrandName": "Nike",
+      //   "productName": "Yellow Dress",
+      //   "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
+      //   "price": 25
+      // }
+    ]
   }
 ]
