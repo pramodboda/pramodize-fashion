@@ -68,7 +68,7 @@
     "title": "T-Shirts",
     "items": [
       {
-        "id": 1,
+        "id": 9,
         "productBrandName": "H & M",
         "productName": "Cropped top",
         "color": "3D Raw Denim",
@@ -76,7 +76,7 @@
         "price": 69.5
       },
       {
-        "id": 2,
+        "id": 10,
         "productBrandName": "H & M",
         "productName": "Relaxed Fit Cotton T-shirt",
         "color": "3D Raw Denim",
@@ -84,7 +84,7 @@
         "price": 69.5
       },
       {
-        "id": 3,
+        "id": 11,
         "productBrandName": "H & M",
         "productName": "Cropped top",
         "color": "Vintage Basalt",
@@ -92,7 +92,7 @@
         "price": 25
       },
       {
-        "id": 4,
+        "id": 12,
         "productBrandName": "G-Star Raw",
         "productName": "RAW. COVERED LONG SLIM TOP",
         "color": "White Denim",
@@ -100,28 +100,36 @@
         "price": 25
       },
       {
-        "id": 5,
+        "id": 13,
         "productBrandName": "H & M",
         "productName": "Relaxed Fit T-shirt",
         "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0c%2F2c%2F0c2cfbd44496e57eee5167cc88d5c770bcdd044e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "price": 25
       },
       {
-        "id": 6,
+        "id": 14,
         "productBrandName": "Nike",
         "productName": "Regular Fit Round-neck T-shirt",
         "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8a%2Fce%2F8ace157d551f58fefe420adb433441a566472bf3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "price": 399
       },
+
       {
-        "id": 7,
+        "id": 23,
+        "productBrandName": "Hollister",
+        "productName": "SEAMLESS RIB FABRIC SQUARE-NECK BABY TEE",
+        "imageUrl": "https://img.hollisterco.com/is/image/anf/KIC_339-2686-1826-301_model1?policy=product-large",
+        "price": 25
+      },
+      {
+        "id": 15,
         "productBrandName": "H & M",
         "productName": "Relaxed Fit T-shirt",
         "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdd%2F41%2Fdd41f0e1f0ac9ce163be719bb4e957bae7b63203.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         "price": 799
       },
       {
-        "id": 8,
+        "id": 16,
         "productBrandName": "Supreme Newyork",
         "productName": "Tartan Wool Suit",
         "imageUrl": "https://assets.supremenewyork.com/228338/ma/fE8A6g8R2Vc.jpg",
@@ -133,7 +141,7 @@
     "title": "Sweatshirts & Hoodies",
     "items": [
       {
-        "id": 1,
+        "id": 17,
         "productBrandName": "Supreme Newyork",
         "productName": "Griffin Anorak",
         "color": "3D Raw Denim",
@@ -141,7 +149,7 @@
         "price": 69.5
       },
       {
-        "id": 2,
+        "id": 18,
         "productBrandName": "Levis",
         "productName": "724 HIGH RISE SLIM STRAIGHT FIT WOMEN'S JEANS",
         "color": "3D Raw Denim",
@@ -149,7 +157,7 @@
         "price": 69.5
       },
       {
-        "id": 3,
+        "id": 19,
         "productBrandName": "G-Star Raw",
         "productName": "KATE BOYFRIEND JEANS",
         "color": "Vintage Basalt",
@@ -157,7 +165,7 @@
         "price": 25
       },
       {
-        "id": 4,
+        "id": 20,
         "productBrandName": "G-Star Raw",
         "productName": "KATE BOYFRIEND JEANS",
         "color": "White Denim",
@@ -165,14 +173,14 @@
         "price": 25
       },
       {
-        "id": 5,
+        "id": 21,
         "productBrandName": "Nike",
         "productName": "Yellow Dress",
         "imageUrl": "https://img.tatacliq.com/images/i4/658Wx734H/MP000000005385421_658Wx734H_20190831180055.jpeg",
         "price": 25
       },
       {
-        "id": 6,
+        "id": 22,
         "productBrandName": "Nike",
         "productName": "Yellow Dress",
         "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
@@ -180,27 +188,12 @@
       },
 
       {
-        "id": 7,
-        "productBrandName": "Hollister",
-        "productName": "SEAMLESS RIB FABRIC SQUARE-NECK BABY TEE",
-        "imageUrl": "https://img.hollisterco.com/is/image/anf/KIC_339-2686-1826-301_model1?policy=product-large",
-        "price": 25
-      },
-
-      {
-        "id": 8,
+        "id": 24,
         "productBrandName": "Nike",
         "productName": "Yellow Dress",
         "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
         "price": 25
       }
-      // {
-      //   "id": 9,
-      //   "productBrandName": "Nike",
-      //   "productName": "Yellow Dress",
-      //   "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
-      //   "price": 25
-      // }
     ]
   }
 ]
