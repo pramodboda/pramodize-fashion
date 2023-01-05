@@ -1,6 +1,9 @@
 import React, { useContext } from "react";
 import { Outlet } from "react-router-dom";
 
+// Getting data from the redux Or Extract data out of redux
+import { useSelector } from "react-redux";
+
 // styles
 import {
   NavigationBlock,
@@ -16,13 +19,16 @@ import ShoppingBagOutlinedIcon from "@mui/icons-material/ShoppingBagOutlined";
 import CartDropdown from "../cart-dropdown/cart-dropdown.component.jsx";
 
 // contexts
-import { UserContext } from "../../contexts/user.context.jsx";
+// import { UserContext } from "../../contexts/user.context.jsx";
+import { selectCurrentUser } from "../../store/user/user.selector";
 import { CartContext } from "../../contexts/cart.context.jsx";
 
 import { signOutUser } from "../../utils/firebase/firebase.utils";
 
 const Navigation = () => {
-  const { currentUser } = useContext(UserContext);
+  const currentUser = useSelector(selectCurrentUser);
+
+  // const { currentUser } = useContext(UserContext);
   const { isCartOpen, setIsCartOpen, cartCount } = useContext(CartContext);
 
   const toggleIsCardOpen = () => {

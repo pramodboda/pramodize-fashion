@@ -1,6 +1,12 @@
 import "./App.css";
-
+import { useEffect } from "react";
+import { useDispatch } from "react-redux/es/exports";
 import { Routes, Route } from "react-router-dom";
+
+import {
+  onAuthStateChangedListener,
+  createUserDocumentFromAuth,
+} from "./utils/firebase/firebase.utils";
 
 import "./catogories.styles.css";
 
@@ -14,12 +20,26 @@ import Directory from "./pages/directory/directory.component";
 import Authentication from "./pages/authentication/authentication.component";
 import Shop from "./pages/shop/shop.component";
 import Checkout from "./pages/checkout/checkout.component";
+import { setCurrentUser } from "./store/user/user.action";
 
 const Women = () => {
   return <div>Women Page</div>;
 };
 
 function App() {
+  const dispatch = useDispatch();
+
+  useEffect(() => {
+    const unsubscribe = onAuthStateChangedListener((user) => {
+      console.log(user);
+      if (user) {
+        createUserDocumentFromAuth(user);
+      }
+      dispatch(setCurrentUser(user));
+    });
+    return unsubscribe;
+  }, []);
+
   return (
     <ColorModeContextProvider>
       <DarkLightModeBtn />

@@ -12,3 +12,8 @@ React
 
     - Normal
     - Firebase(Google)
+
+## Deploy
+
+    - Deployed at Netlify
+    - Added "_redirects" file in public folder
