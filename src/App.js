@@ -12,6 +12,7 @@ import "./catogories.styles.css";
 
 //Context
 import { ColorModeContextProvider } from "./contexts/ColorModeContext";
+// import { CategoriesProvider } from "./contexts/categories.context";
 
 //Components
 import Navigation from "./components/navigation/navigation.component";
@@ -31,7 +32,7 @@ function App() {
 
   useEffect(() => {
     const unsubscribe = onAuthStateChangedListener((user) => {
-      console.log(user);
+      // console.log(user);
       if (user) {
         createUserDocumentFromAuth(user);
       }
@@ -41,6 +42,7 @@ function App() {
   }, []);
 
   return (
+    // <CategoriesProvider>
     <ColorModeContextProvider>
       <DarkLightModeBtn />
       <Routes>
@@ -57,6 +59,7 @@ function App() {
         </Route>
       </Routes>
     </ColorModeContextProvider>
+    // </CategoriesProvider>
   );
 }
 

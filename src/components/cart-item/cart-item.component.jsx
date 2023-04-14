@@ -12,7 +12,7 @@ const CartItem = ({ cartItem }) => {
 
       <ItemDetails>
         <p>{productName}</p>
-        <p>{color}</p>
+        <p>Colour Shown: {color}</p>
         <p>
           {quantity} x ${price}
         </p>

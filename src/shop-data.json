@@ -1,198 +1,203 @@
 [
   {
-    "title": "Denims",
-    "items": [
+    "title": "Caps",
+    "products": [
       {
         "id": 1,
-        "productBrandName": "G-Star Raw",
-        "productName": "ARC 3D BOYFRIEND JEANS",
-        "color": "3D Raw Denim",
-        "imageUrl": "https://img1.g-star.com/product/c_fill,f_auto,h_692,q_80/v1649755807/D19821-C829-1241-E01/g-star-raw-arc-3d-boyfriend-jeans-dark-blue.jpg",
-        "price": 69.5
+        "brand": "Nike",
+        "title": "Nike Sportswear Heritage 86",
+        "description": "Classic and comfortable, the Nike Sportswear Heritage 86 Cap features a 6-panel design made from cotton twill fabric and an adjustable closure for a snug, secure fit.",
+        "color": "Black",
+        "price": "₹ 1 095.00",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/733e9dba-0e55-4a6b-9994-33679e30a21c/sportswear-heritage-86-adjustable-cap-7g0hKX.png",
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/19d205f2-6304-46a7-be9d-eb39084c8cbd/sportswear-heritage-86-adjustable-cap-7g0hKX.png"
+        ]
       },
       {
         "id": 2,
-        "productBrandName": "Levis",
-        "productName": "724 HIGH RISE SLIM STRAIGHT FIT WOMEN'S JEANS",
-        "color": "3D Raw Denim",
-        "imageUrl": "https://lsco.scene7.com/is/image/lsco/188830016-dynamic1-pdp?fmt=jpeg&qlt=70,1&op_sharpen=0&resMode=sharp2&op_usm=0.8,1,10,0&fit=crop,0&wid=1250&hei=1667",
-        "price": 69.5
+        "brand": "Nike",
+        "title": "Nike Sportswear Pro Swoosh",
+        "description": "The Nike Sportswear Pro Swoosh Classic Hat flashes a large Swoosh design trademark up front in a contrast-coloured design, and lets you adjust the fit in the back.",
+        "color": "Particle Grey",
+        "price": "₹ 1 595.00",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/7453c42e-d701-4c70-87de-a7f91cb4eafa/sportswear-pro-swoosh-classic-hat-R45J3t.png",
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/2e05caa0-4397-41e5-8d9e-4cb8220180f5/sportswear-pro-swoosh-classic-hat-R45J3t.png"
+        ]
       },
       {
         "id": 3,
-        "productBrandName": "G-Star Raw",
-        "productName": "KATE BOYFRIEND JEANS",
-        "color": "Vintage Basalt",
-        "imageUrl": "https://img1.g-star.com/product/c_fill,f_auto,h_692,q_80/v1625149148/D15264-C293-B168-E01/g-star-raw-kate-boyfriend-jeans-grey.jpg",
-        "price": 25
+        "brand": "Nike",
+        "title": "Nike Dri-FIT Giannis Heritage86",
+        "description": "Fans who love Giannis for his incredible game can't get enough of his freaky signature style. The Giannis Heritage86 'Freak' Cap puts the sensational Swoosh front and centre. It's made from durable twill with an unstructured crown and a pre-curved bill.",
+        "color": "Diffused Blue",
+        "price": "₹ 1 695.00",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/4aa6ac1d-cde5-436a-b950-1e68440ead57/dri-fit-giannis-heritage86-basketball-cap-dN9WQz.png",
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/8d2ef3a5-82a0-46db-a70f-985e5a4c9fb3/dri-fit-giannis-heritage86-basketball-cap-dN9WQz.png"
+        ]
       },
       {
         "id": 4,
-        "productBrandName": "G-Star Raw",
-        "productName": "KATE BOYFRIEND JEANS",
-        "color": "White Denim",
-        "imageUrl": "https://img1.g-star.com/product/c_fill,f_auto,h_692,q_80/v1646211647/D15264-C669-110-E01/g-star-raw-kate-boyfriend-jeans-white.jpg",
-        "price": 25
+        "brand": "Nike",
+        "title": "Jordan Flight Essentials Classic99",
+        "description": "Keep your game and style in check. Complete your 'fit and rep Jordan Brand with this versatile, classic cap.",
+        "color": "Black",
+        "price": "₹ 1 995.00",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/5390c124-4fe3-4b11-8fff-0f2e673192bd/jordan-flight-essentials-classic99-cap-MnbW21.png",
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/c5852e17-e4c4-4dbc-bfc6-0f539dc8e729/jordan-flight-essentials-classic99-cap-MnbW21.png"
+        ]
       },
       {
         "id": 5,
-        "productBrandName": "Nike",
-        "productName": "Yellow Dress",
-        "imageUrl": "https://img.tatacliq.com/images/i4/658Wx734H/MP000000005385421_658Wx734H_20190831180055.jpeg",
-        "price": 25
+        "brand": "Nike",
+        "title": "Jordan Classic99 Flight",
+        "description": "Go anywhere, do anything in this adjustable hat. Made from breathable cotton, it features the classic Jumpman and Flight logos atop a pre-curved bill.",
+        "color": "University Red",
+        "price": "₹ 1 695.00",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/260bcf35-8b28-4e92-aedd-2b9e86e2206c/jordan-classic99-flight-cap-gk3PDm.png",
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/a5872bf7-2778-47f6-88ab-7802b2cb5d39/jordan-classic99-flight-cap-gk3PDm.png"
+        ]
       },
       {
         "id": 6,
-        "productBrandName": "Nike",
-        "productName": "Yellow Dress",
-        "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
-        "price": 25
+        "brand": "Nike",
+        "title": "Nike Sportswear Classic 99",
+        "description": "Updating the classic silhouette, the Nike Sportswear Classic 99 Trucker features our classic graphic embroidered on the front panel and an adjustable snapback closure.",
+        "color": "Black",
+        "price": "₹ 1 295.00",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/751a124a-38c2-4fa3-8b79-d87df0633bf4/sportswear-classic-99-trucker-cap-k3ZFDZ.png",
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/403e433d-0885-4f2f-857b-8d824590ae2f/sportswear-classic-99-trucker-cap-k3ZFDZ.png"
+        ]
       },
       {
         "id": 7,
-        "productBrandName": "Nike",
-        "productName": "Yellow Dress",
-        "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
-        "price": 25
+        "brand": "Nike",
+        "title": "Nike Sportswear Legacy 91",
+        "description": "The Nike Sportswear Legacy 91 is a 6-panel strapback made from durable cotton canvas fabric and a curved brim for a clean, utility look.",
+        "color": "Black",
+        "price": "₹ 1 595.00",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/99163b78-e604-444e-94e9-7bd71f27a0a5/sportswear-legacy-91-adjustable-cap-0G7r6C.png",
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/c3a2392d-cbf3-4514-92e5-7a74f0749141/sportswear-legacy-91-adjustable-cap-0G7r6C.png"
+        ]
       },
       {
         "id": 8,
-        "productBrandName": "Nike",
-        "productName": "Yellow Dress",
-        "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
-        "price": 25
+        "brand": "Nike",
+        "title": "Jordan Pro Jumpman",
+        "description": "Show them your hops in the Jordan Pro Jumpman Snapback Hat. It has a flat bill and high structured crown made from tightly woven twill. The iconic logo is thickly embroidered on the front, a bold projection of the Brand's heritage. This product is made from at least 50% recycled polyester fibres.",
+        "color": "Gym Red",
+        "price": "₹ 1 595.00",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/7e7bf530-dbd5-4351-b1b7-c9e9633a27bc/jordan-pro-jumpman-snapback-hat-KbPBND.png",
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/cee79dbf-eeca-4197-9052-979939c45e03/jordan-pro-jumpman-snapback-hat-KbPBND.png"
+        ]
       }
     ]
   },
   {
-    "title": "T-Shirts",
-    "items": [
+    "title": "Hats",
+    "products": [
       {
-        "id": 9,
-        "productBrandName": "H & M",
-        "productName": "Cropped top",
-        "color": "3D Raw Denim",
-        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F80%2F74%2F8074672fa390863bfb827b2a2e3a42e078605f3e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-        "price": 69.5
+        "id": 1,
+        "brand": "Nike",
+        "title": "Nike Boonie",
+        "description": "The Nike Boonie Bucket Hat has you covered with a 360-degree brim and a drawcord that cinches down for a stay-put fit when you're on the move.Sweat-wicking power and built-in vents team up to help keep your head dry and cool.Camo print creates a commanding look.",
+        "color": "Medium Olive",
+        "price": " ₹ 1 995.00",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/cd7dfe8c-7edb-4a5a-9d39-3e9a8baf707f/boonie-camo-bucket-hat-3Mp6bh.png",
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5,q_80/4177dd57-859b-41d3-9eb3-a11462329d25/boonie-camo-bucket-hat-3Mp6bh.png"
+        ]
       },
       {
-        "id": 10,
-        "productBrandName": "H & M",
-        "productName": "Relaxed Fit Cotton T-shirt",
-        "color": "3D Raw Denim",
-        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe3%2Fcf%2Fe3cf3c85a8e56d691cab5831fa284658b13739b9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-        "price": 69.5
+        "id": 2,
+        "brand": "Nike",
+        "title": "Jordan Jumpman",
+        "description": "Top off your outfit with a look that begs for some sunshine.The Jordan Jumpman Bucket Hat is made from lightweight woven twill that's been washed for a vintage look.",
+        "color": "Gym Red",
+        "price": "₹ 1 695.00",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/7368efbb-933b-4f96-9ed5-705802be2a94/jordan-jumpman-washed-bucket-hat-kblNWN.png",
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/d36b7cce-3ee8-4ca5-9863-13b4cc133ea3/jordan-jumpman-washed-bucket-hat-kblNWN.png"
+        ]
       },
       {
-        "id": 11,
-        "productBrandName": "H & M",
-        "productName": "Cropped top",
-        "color": "Vintage Basalt",
-        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F9b%2F06%2F9b06a05b3e520e6faf7b23b0860c650fde2657c4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-        "price": 25
+        "id": 3,
+        "brand": "Nike",
+        "title": "Nike Sportswear",
+        "description": "A washed fabric on the crown of the Nike Sportswear Bucket Hat gives it a soft, well-worn feel.Its unstructured crown and brim offer a laidback look and added coverage from the elements.",
+        "color": "Midnight Navy",
+        "price": "₹ 1 595.00",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/812559ac-5031-44b7-930a-c447cdcd185c/sportswear-bucket-hat-pnF01f.png",
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5,q_80/de9dd83a-9118-42e3-82f5-6e453520f796/sportswear-bucket-hat-pnF01f.png"
+        ]
       },
       {
-        "id": 12,
-        "productBrandName": "G-Star Raw",
-        "productName": "RAW. COVERED LONG SLIM TOP",
-        "color": "White Denim",
-        "imageUrl": "https://img1.g-star.com/product/c_fill,f_auto,h_692,q_80/v1646049080/D21237-336-6484-E01/g-star-raw-raw-covered-long-slim-top-black.jpg",
-        "price": 25
+        "id": 4,
+        "brand": "Nike",
+        "title": "Zion",
+        "description": "Rock one of Zion's favourite styles in the Zion Bucket Hat from Jordan Brand.Made from stretchy woven fabric, it has a toggled drawcord and stitched-down loops all around above the brim.",
+        "color": "Black",
+        "price": "₹ 1 995.00",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/1b0efa89-0f14-4480-97ca-bf16dafa95db/zion-bucket-hat-DGBZ7T.png",
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5,q_80/8f27431c-0138-46c0-80f8-fb6c01ee66ac/zion-bucket-hat-DGBZ7T.png"
+        ]
       },
       {
-        "id": 13,
-        "productBrandName": "H & M",
-        "productName": "Relaxed Fit T-shirt",
-        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0c%2F2c%2F0c2cfbd44496e57eee5167cc88d5c770bcdd044e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-        "price": 25
+        "id": 5,
+        "brand": "Nike",
+        "title": "Nike Boonie",
+        "description": "The Nike Boonie Bucket Hat has you covered with a 360-degree brim and a drawcord that cinches down for a stay-put fit when you're on the move.Sweat-wicking power and built-in vents team up to help keep your head dry and cool.",
+        "color": "Black",
+        "price": "₹ 1 995.00",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/ef5c9310-6e77-46ae-a636-1ed3ec9d7bcd/boonie-bucket-hat-wHdgDx.png",
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5,q_80/b34b54bd-e20e-4d03-9df3-73f7b75ca469/boonie-bucket-hat-wHdgDx.png"
+        ]
       },
       {
-        "id": 14,
-        "productBrandName": "Nike",
-        "productName": "Regular Fit Round-neck T-shirt",
-        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8a%2Fce%2F8ace157d551f58fefe420adb433441a566472bf3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-        "price": 399
-      },
-
-      {
-        "id": 23,
-        "productBrandName": "Hollister",
-        "productName": "SEAMLESS RIB FABRIC SQUARE-NECK BABY TEE",
-        "imageUrl": "https://img.hollisterco.com/is/image/anf/KIC_339-2686-1826-301_model1?policy=product-large",
-        "price": 25
+        "id": 6,
+        "brand": "Nike",
+        "title": "Nike Sportswear",
+        "description": "A washed fabric on the crown of the Nike Sportswear Bucket Hat gives it a soft, well-worn feel.Its unstructured crown and brim offer a laidback look and added coverage from the elements.",
+        "color": "Bright Cactus",
+        "price": "₹ 1 595.00",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/748583f0-f78d-4405-adcc-4e505e78d5f7/sportswear-bucket-hat-pnF01f.png",
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5,q_80/dac040e5-d1d0-436a-99cd-804422ff5d62/sportswear-bucket-hat-pnF01f.png"
+        ]
       },
       {
-        "id": 15,
-        "productBrandName": "H & M",
-        "productName": "Relaxed Fit T-shirt",
-        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdd%2F41%2Fdd41f0e1f0ac9ce163be719bb4e957bae7b63203.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-        "price": 799
+        "id": 7,
+        "brand": "Nike",
+        "title": "Jordan Jumpman",
+        "description": "Top off your outfit with a look that begs for some sunshine.The Jordan Jumpman Bucket Hat is made from lightweight woven twill that's been washed for a vintage look.",
+        "color": "Midnight Navy",
+        "price": "₹ 1 695.00",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/693d1ab1-2d8c-4da1-9003-4a1ff692e99d/jordan-jumpman-washed-bucket-hat-kblNWN.png",
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5,q_80/62503c0b-3ece-4024-82de-d0226f821d7c/jordan-jumpman-washed-bucket-hat-kblNWN.png"
+        ]
       },
       {
-        "id": 16,
-        "productBrandName": "Supreme Newyork",
-        "productName": "Tartan Wool Suit",
-        "imageUrl": "https://assets.supremenewyork.com/228338/ma/fE8A6g8R2Vc.jpg",
-        "price": 25
-      }
-    ]
-  },
-  {
-    "title": "Sweatshirts & Hoodies",
-    "items": [
-      {
-        "id": 17,
-        "productBrandName": "Supreme Newyork",
-        "productName": "Griffin Anorak",
-        "color": "3D Raw Denim",
-        "imageUrl": "https://assets.supremenewyork.com/228340/ma/zUJHvY8MguU.jpg",
-        "price": 69.5
-      },
-      {
-        "id": 18,
-        "productBrandName": "Levis",
-        "productName": "724 HIGH RISE SLIM STRAIGHT FIT WOMEN'S JEANS",
-        "color": "3D Raw Denim",
-        "imageUrl": "https://lsco.scene7.com/is/image/lsco/188830016-dynamic1-pdp?fmt=jpeg&qlt=70,1&op_sharpen=0&resMode=sharp2&op_usm=0.8,1,10,0&fit=crop,0&wid=1250&hei=1667",
-        "price": 69.5
-      },
-      {
-        "id": 19,
-        "productBrandName": "G-Star Raw",
-        "productName": "KATE BOYFRIEND JEANS",
-        "color": "Vintage Basalt",
-        "imageUrl": "https://img1.g-star.com/product/c_fill,f_auto,h_692,q_80/v1625149148/D15264-C293-B168-E01/g-star-raw-kate-boyfriend-jeans-grey.jpg",
-        "price": 25
-      },
-      {
-        "id": 20,
-        "productBrandName": "G-Star Raw",
-        "productName": "KATE BOYFRIEND JEANS",
-        "color": "White Denim",
-        "imageUrl": "https://img1.g-star.com/product/c_fill,f_auto,h_692,q_80/v1646211647/D15264-C669-110-E01/g-star-raw-kate-boyfriend-jeans-white.jpg",
-        "price": 25
-      },
-      {
-        "id": 21,
-        "productBrandName": "Nike",
-        "productName": "Yellow Dress",
-        "imageUrl": "https://img.tatacliq.com/images/i4/658Wx734H/MP000000005385421_658Wx734H_20190831180055.jpeg",
-        "price": 25
-      },
-      {
-        "id": 22,
-        "productBrandName": "Nike",
-        "productName": "Yellow Dress",
-        "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
-        "price": 25
-      },
-
-      {
-        "id": 24,
-        "productBrandName": "Nike",
-        "productName": "Yellow Dress",
-        "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
-        "price": 25
+        "id": 8,
+        "brand": "Nike",
+        "title": "Nike Sportswear",
+        "description": "A washed fabric on the crown of the Nike Sportswear Bucket Hat gives it a soft, well-worn feel.Its unstructured crown and brim offer a laidback look and added coverage from the elements.",
+        "color": "Oxygen Purple",
+        "price": "₹ 1 595.00",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/a87eb5c6-ae5b-4bf2-a63c-8b9632ca587e/sportswear-bucket-hat-pnF01f.png",
+          "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5,q_80/90fecfc4-f918-4519-899b-47f0d1fc206d/sportswear-bucket-hat-pnF01f.png"
+        ]
       }
     ]
   }
