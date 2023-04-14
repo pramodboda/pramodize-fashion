@@ -15,18 +15,21 @@ export const CategoriesContext = createContext({
 export const CategoriesProvider = ({ children }) => {
   const [categoriesMap, setCategoriesMap] = useState({});
 
-  // Uncomment 3: if you need to add products data to firebase, then save the file and comment back this blocks again
+  // Uncomment 3: if you need to add products data to firebase,
+  // Then save the file and comment back this blocks again.
+  // Then comment: comment 4 useEffect hook, there should not be two useEffects in one file right?
   // useEffect(() => {
-  //   addCollectionAndDocuments("categories", PRODUCTS_DATA);
+  //   addCollectionAndDocuments("fashion_categories", PRODUCTS_DATA);
   // }, []);
 
+  // comment 4: if you need to add products data to firebase, then save the file and uncomment back this block again, next: read comment 5.
+  // comment 5: goto App.js file and uncomment 'CategoriesProvider', then save the file and once your data saved in firebase. undo all the step till now what you have done.
   useEffect(() => {
     const getCategoriesMap = async () => {
       const categoryMap = await getCategoriesAndDocuments();
-      // console.log("categoryMap:", categoryMap);
+      console.log("categoryMap:", categoryMap);
       setCategoriesMap(categoryMap);
     };
-
     getCategoriesMap();
   }, []);
 

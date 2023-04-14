@@ -13,23 +13,23 @@ import { CartContext } from "../../contexts/cart.context";
 
 const ProductCard = ({ product }) => {
   const { addItemToCart } = useContext(CartContext);
-  const { imageUrl, productBrandName, productName, price, color } = product;
+  const { images, brand, title, price, color } = product;
 
   const addItemToCartHandler = () => addItemToCart(product);
 
   return (
     <ProductCardContainer>
       <ProductCardImgContainer>
-        <ProductCardImg src={imageUrl} alt={`${productName}`} />
+        <ProductCardImg src={images[0]} alt={`${title}`} />
         <AddToBagBtn className="add-to-bag-btn" onClick={addItemToCartHandler}>
           Add to bag
         </AddToBagBtn>
       </ProductCardImgContainer>
 
       <ProductCardInfo>
-        <span>{productBrandName}</span>
+        <span>{brand}</span>
         <br />
-        <span>{productName}</span>
+        <span>{title}</span>
         <br />
         {color ? <span>{color}</span> : "-"}
         <br />

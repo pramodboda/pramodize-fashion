@@ -76,13 +76,13 @@ const Navigation = () => {
     setIsCartOpen(!isCartOpen);
   };
 
-  // Helper function for userFirstName
-  const userFirstName = () => {
-    if (currentUser) {
-      const userNameWords = currentUser.displayName.split(" ");
-      return userNameWords[0];
-    }
-  };
+  // // Helper function for userFirstName
+  // const userFirstName = () => {
+  //   if (currentUser) {
+  //     const userNameWords = currentUser.displayName.split("");
+  //     return userNameWords[0];
+  //   }
+  // };
 
   return (
     <div>
@@ -94,17 +94,17 @@ const Navigation = () => {
           <NavLink className="nav-link" to="/shop">
             Shop
           </NavLink>
-          <NavLink className="nav-link" to="/women">
+          {/* <NavLink className="nav-link" to="/women">
             Women
           </NavLink>
           <NavLink className="nav-link" to="/men">
             Men
+          </NavLink> */}
+          <NavLink className="nav-link" to="/shop/caps">
+            Caps
           </NavLink>
-          <NavLink className="nav-link" to="/kids">
-            Kids
-          </NavLink>
-          <NavLink className="nav-link" to="/denim">
-            Denim
+          <NavLink className="nav-link" to="/shop/hats">
+            Hats
           </NavLink>
           <NavLink className="nav-link nav-link-sale" to="/sale">
             Sale
@@ -121,7 +121,8 @@ const Navigation = () => {
               >
                 <Avatar alt="Remy Sharp" src={currentUser.photoURL} />
               </StyledBadge>
-              {currentUser ? userFirstName() : null}
+              {/* {currentUser ? userFirstName() : null} */}
+              {currentUser ? currentUser.displayName : null}
               Logout
             </NavLink>
           ) : (

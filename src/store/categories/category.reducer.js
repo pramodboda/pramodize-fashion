@@ -1,6 +1,6 @@
 import { CATEGORIES_ACTION_TYPES } from "./category.types";
 
-export const CATEGORIES_INTIAL_STATE = { categories: [] };
+export const CATEGORIES_INTIAL_STATE = { fashion_categories: [] };
 
 export const categoriesReducer = (
   state = CATEGORIES_INTIAL_STATE,
@@ -10,7 +10,7 @@ export const categoriesReducer = (
 
   switch (type) {
     case CATEGORIES_ACTION_TYPES.SET_CATEGORIES: {
-      return { ...state, categories: payload };
+      return { ...state, fashion_categories: payload };
     }
     default:
       return state;
